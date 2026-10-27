@@ -1,4 +1,4 @@
-<img width="574" height="323" alt="Final_Dashboard_View" src="Screenshots/Final_Dashboard_View" />
+<img width="574" height="323" alt="Final_Dashboard_View" src="Final Dashboard View.png" />
 # 🛒 E-Commerce Sales & Profitability Performance Dashboard
 
 An end-to-end Business Intelligence project analyzing $432K+ in e-commerce transactions across product categories, geographic regions, and monthly target benchmarks. Built using **MySQL**, **Power Query**, **DAX**, and **Power BI Desktop**.
