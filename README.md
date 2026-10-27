@@ -3,7 +3,7 @@
 
 An end-to-end Business Intelligence project analyzing $432K+ in e-commerce transactions across product categories, geographic regions, and monthly target benchmarks. Built using **MySQL**, **Power Query**, **DAX**, and **Power BI Desktop**.
 
-![Dashboard Overview](Screenshots/Final_Dashboard_View.png)
+![Dashboard Overview](Screenshots/Final Dashboard View.png)
 
 ---
 
